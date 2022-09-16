@@ -11,7 +11,7 @@ body, html{
 }
 
 .bg-img{
-    background-image: url("/img/img-res.jpg");
+    background-image: url("../img/img-res.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
